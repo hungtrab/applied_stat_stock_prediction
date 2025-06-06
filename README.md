@@ -2,7 +2,7 @@
 
 **Presentation & Live Demo:**
 
-*   **View our Presentation Slides:** [Presentation Slide](https://docs.google.com/presentation/d/1whhVe0p_S_Xeq7z5wc21U4zkMSajVBx_/edit?usp=sharing&ouid=104000728711720335594&rtpof=true&sd=true)
+*   **View our Presentation Slides:** [Presentation Slide](https://drive.google.com/drive/folders/1nqddIovVOqsl0DnsvVbMhmuyCFO9CE0_?usp=sharing)
 *   **Experience the Live Application:** [Web Application](https://stockbook.streamlit.app/)
 
 ---
